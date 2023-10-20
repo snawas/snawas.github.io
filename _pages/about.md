@@ -1,3 +1,13 @@
+---
+permalink: /
+title: ""
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 I am a Ph.D. student in Computer Science at UC Davis, advised by [Dr. Aditya Thakur](https://thakur.cs.ucdavis.edu/). My research lies in the intersection of programming languages, machine learning, formal methods, and software engineering. My work focuses on the repair of deep neural networks with an emphasis on providing provable correctness guarantees. I am passionate about teaching and mentorship, particularly for women of color in computer science. 
 
 
