@@ -21,3 +21,10 @@ In my free time, I enjoy playing video games, solving the NY Times Crossword puz
 
 I have a younger sister who absorbed all of the artistic inclination in our family and became a toy designer. Check out [her website](https://melissanawas.art/)!
 
+Recent News
+------
+* 10/2023 Served as a Panelist for the [Bakersfield College MESA](https://www.bakersfieldcollege.edu/campus-life/student-communities/mesa/index.html) program
+* 06/2023 Paper published in Programming Languages Design and Implementation (PLDI)
+* 03/2023 Featured for the UC Davis College of Engineering [International Women's Day](https://engineering.ucdavis.edu/news/graduate-student-spotlight-stephanie-nawas?fbclid=IwAR1QcAMKUJAwrAL9zH_bcJ7V2Im26JIYksZleNTMQ4pcs0Cf2PtKZkYvnK8) initiative
+* 01/2023 Elected President of Graduate Scholars of Color+ [GSOC+](https://sites.google.com/ucdavis.edu/gsoc/home)
+* 06/2022 Attended Programming Languages Design and Implementation (PLDI) Conference
