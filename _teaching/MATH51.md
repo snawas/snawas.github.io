@@ -1,7 +1,7 @@
 ---
 title: "MATH51 Discrete Mathematics"
 collection: Peer Educator
-type: "Peer Educator"
+type: "Undergraduate Course"
 permalink: /teaching/MATH51
 venue: "Santa Clara University, Mathematics"
 date: 2019-04-19
