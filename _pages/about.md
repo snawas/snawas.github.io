@@ -18,7 +18,7 @@ Recent News
 * 01/2023 Elected President of Graduate Scholars of Color+ [GSOC+](https://sites.google.com/ucdavis.edu/gsoc/home)
 * 06/2022 Attended Programming Languages Design and Implementation (PLDI) Conference
 
-About Me
+More About Me
 ------
 I am the president of [Graduate Scholars of Color+](https://sites.google.com/ucdavis.edu/gsoc/) at UC Davis, an organization that fosters community for graduate students of color across many disciplines and fields of study.
 
