@@ -47,7 +47,7 @@ Teaching
   
 Service and leadership
 ======
-* President of Graduate Scholars of Color+ [(GSOC+)](https://sites.google.com/ucdavis.edu/gsoc/)
+* President of Graduate Scholars of Color+ [(GSOC+)](https://www.instagram.com/davis_gsoc/)
   * University of California, Davis (2021 - present)
 * Co-Chair of the Asian Pacific-Islander Student Union
   * Santa Clara University (2019 - 2021)
