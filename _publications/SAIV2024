@@ -1,0 +1,22 @@
+---
+title: "Provable Repair of Vision Transformers"
+collection: publications
+permalink: /publication/SAIV2024
+excerpt: ''
+date: 2024-07-23
+venue: 'Symposium on AI Verification'
+paperurl: 'https://link.springer.com/book/9783031651113'
+citation: 'Stephanie Nawas, Zhe Tao, and Aditya V. Thakur. 2024. Provable Repair of Vision Transformers. <i>Symposium on AI Verification</i> SAIV (July 2024).'
+
+---
+Vision Transformers have emerged as state-of-the-art image recognition tools, but may still exhibit incorrect behavior. Incorrect image recognition
+can have disastrous consequences in safety-critical real-world applications such
+as self-driving automobiles. In this paper, we present Provable Repair of Vision
+Transformers (PRoViT), a provable repair approach that guarantees the correct
+classification of images in a repair set for a given Vision Transformer without
+modifying its architecture. PRoViT avoids negatively affecting correctly classified images (drawdown) by minimizing the changes made to the Vision Transformer’s parameters and original output. We observe that for Vision Transformers, unlike for other architectures such as ResNet or VGG, editing just the parameters in the last layer achieves correctness guarantees and very low drawdown.
+We introduce a novel method for editing these last-layer parameters that enables
+PRoViT to efficiently repair state-of-the-art Vision Transformers for thousands of
+images, far exceeding the capabilities of prior provable repair approaches.
+
+[Download paper PDF here](http://academicpages.github.io/files/SAIV2024.pdf)
