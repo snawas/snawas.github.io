@@ -12,13 +12,14 @@ I am a Ph.D. student in Computer Science at UC Davis, advised by [Dr. Aditya Tha
 
 Recent News
 ------
+* 06/2025 Received the NCWIT Aspirations in Computing (AiC) Honorable Mention [Award](https://www.aspirations.org/news/award-programs/ncwit-selects-2025-aic-collegiate-award-recipients)
 * 07/2024 Paper published in Symposium on AI Verification (SAIV)
 * 06/2024 Presented tutorial at Programming Languages Design and Implementation (PLDI) conference
 * 12/2023 Attended the First International Workshop on Software Defect Datasets (SDD)
 * 10/2023 Served as a Panelist for the [Bakersfield College MESA](https://www.bakersfieldcollege.edu/campus-life/student-communities/mesa/index.html) program
 * 06/2023 Paper published in Programming Languages Design and Implementation (PLDI)
 * 03/2023 Featured for the UC Davis College of Engineering [International Women's Day](https://engineering.ucdavis.edu/news/graduate-student-spotlight-stephanie-nawas?fbclid=IwAR1QcAMKUJAwrAL9zH_bcJ7V2Im26JIYksZleNTMQ4pcs0Cf2PtKZkYvnK8) initiative
-* 01/2023 Elected President of Graduate Scholars of Color+ [GSOC+](https://www.instagram.com/davis_gsoc/)
+* 01/2023 Elected President of Graduate Scholars of Color+ ([GSOC+](https://www.instagram.com/davis_gsoc/))
 * 07/2022 Served as a Mentor for the [Talaria Summer Research Institute](https://talaria.org/)
 * 06/2022 Attended Programming Languages Design and Implementation (PLDI) Conference
 
