@@ -12,7 +12,7 @@ I am a Ph.D. student in Computer Science at UC Davis, advised by [Dr. Aditya Tha
 
 Recent News
 ------
-* 06/2025 Received the NCWIT Aspirations in Computing (AiC) Honorable Mention [Award](https://www.aspirations.org/news/award-programs/ncwit-selects-2025-aic-collegiate-award-recipients)
+* 06/2025 Received the [NCWIT Aspirations in Computing (AiC) Collegiate Award](https://www.aspirations.org/news/award-programs/ncwit-selects-2025-aic-collegiate-award-recipients) Honorable Mention
 * 07/2024 Paper published in Symposium on AI Verification (SAIV)
 * 06/2024 Presented tutorial at Programming Languages Design and Implementation (PLDI) conference
 * 12/2023 Attended the First International Workshop on Software Defect Datasets (SDD)
