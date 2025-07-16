@@ -10,4 +10,4 @@ location: "Davis, California"
 
 Teaching Assistant for ECS140A Programming Languages.
 
-winter 2024, Fall 2022, Winter 2022.
+Winter 2025, Winter 2024, Fall 2022, Winter 2022.
