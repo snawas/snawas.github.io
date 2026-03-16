@@ -16,7 +16,7 @@ Education
 * B.S. in Mathematics, Santa Clara University, 2020
 * B.S. in Computer Science, Santa Clara University, 2020
 * M.S. in Computer Engineering, Santa Clara University, 2021
-* Ph.D in Computer Science, University of California, Davis, 2026 (expected)
+* Ph.D in Computer Science, University of California, Davis, 2027 (expected)
 
 Work experience
 ======
@@ -47,7 +47,7 @@ Teaching
   
 Service and leadership
 ======
-* President of Graduate Scholars of Color+ [(GSOC+)](https://www.instagram.com/davis_gsoc/)
+* President of Scholars of Color Alliance [(SOCA)](https://www.instagram.com/davis_soca/)
   * University of California, Davis (2021 - present)
 * Co-Chair of the Asian Pacific-Islander Student Union
   * Santa Clara University (2019 - 2021)
