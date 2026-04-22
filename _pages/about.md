@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Computer Science at UC Davis, advised by [Dr. Zhaodan Kong](https://faculty.engineering.ucdavis.edu/kong/). My research lies in the intersection of programming languages, machine learning, formal methods, and software engineering. My work focuses on the repair of deep neural networks for advanced air mobility systems with an emphasis on providing provable correctness guarantees. I am passionate about teaching and mentorship, particularly for women of color in computer science. 
+I am a Ph.D. Candidate in Computer Science at UC Davis, advised by [Dr. Zhaodan Kong](https://faculty.engineering.ucdavis.edu/kong/). My research lies in the intersection of programming languages, machine learning, formal methods, and software engineering. My work focuses on the repair of deep neural networks for advanced air mobility systems with an emphasis on providing provable correctness guarantees. I am passionate about teaching and mentorship, particularly for women of color in computer science. 
 
 Recent News
 ------
