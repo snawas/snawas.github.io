@@ -12,6 +12,8 @@ I am a Ph.D. Candidate in Computer Science at UC Davis, advised by [Dr. Zhaodan 
 
 Recent News
 ------
+* 06/2026 Taught at the AI Institute for Food Systems for their [High School Summer AI Tech Camp](https://aifs.ucdavis.edu/education-and-outreach/high-school-summer-camp)
+* 05/2026 Received the UC Davis [Cross Cultural Center's](https://ccc.ucdavis.edu/) Dr. Analisa Brown Award
 * 04/2026 Received the UC Davis Richard and Joy Dorf Engineering Fellowship
 * 04/2026 Served on the Hiring Committee for the UC Davis Graduate Academic Achievement and Advocacy Program ([GAAAP](https://srrc.ucdavis.edu/programs/gaaap))
 * 03/2026 Passed my Qualifying Exam!
@@ -30,7 +32,7 @@ Recent News
 
 More About Me
 ------
-I am the president of [Scholars of Color Alliance](https://www.instagram.com/davis_soca/) at UC Davis, an organization that fosters community for graduate students of color across many disciplines and fields of study.
+I was the president of [Scholars of Color Alliance](https://www.instagram.com/davis_soca/) at UC Davis for four years, an organization that fosters community for graduate students of color across many disciplines and fields of study.
 
 I completed my undergraduate degrees in mathematics and computer science at Santa Clara University. While at SCU, I researched sparse suffix tree algorithms, advised by [Dr. Nicholas Tran](https://algoplexity.com/~ntran/). [Dr. Tamsen McGinley](https://sites.google.com/view/tamsenwhiteheadmcginley/home) was also an incredible mentor in my mathematics journey!
 
