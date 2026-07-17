@@ -12,10 +12,12 @@ I am a Ph.D. Candidate in Computer Science at UC Davis, advised by [Dr. Zhaodan 
 
 Recent News
 ------
+* 07/2026 Accepted to the Peralta Community College District's [Faculty Diversity Internship Program](https://www.peralta.edu/facultydiversityinternship)
+* 06/2026 Mentored two students for the UC Davis [Young Scholars Program](https://education.ucdavis.edu/young-scholars-program)
 * 06/2026 Taught at the AI Institute for Food Systems for their [High School Summer AI Tech Camp](https://aifs.ucdavis.edu/education-and-outreach/high-school-summer-camp)
 * 05/2026 Received the UC Davis [Cross Cultural Center's](https://ccc.ucdavis.edu/) Dr. Analisa Brown Award
 * 04/2026 Received the UC Davis Richard and Joy Dorf Engineering Fellowship
-* 04/2026 Served on the Hiring Committee for the UC Davis Graduate Academic Achievement and Advocacy Program ([GAAAP](https://srrc.ucdavis.edu/programs/gaaap))
+* 04/2026 Served on the Hiring Committee for the UC Davis [Graduate Academic Achievement and Advocacy Program](https://srrc.ucdavis.edu/programs/gaaap)
 * 03/2026 Passed my Qualifying Exam!
 * 09/2025 Attended the [CMD-IT/ACM Richard Tapia Celebration of Diversity in Computing Conference](https://tapiaconference.cmd-it.org/)
 * 06/2025 Received the [NCWIT Aspirations in Computing (AiC) Collegiate Award](https://www.aspirations.org/news/award-programs/ncwit-selects-2025-aic-collegiate-award-recipients) Honorable Mention
