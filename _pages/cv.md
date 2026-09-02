@@ -48,7 +48,7 @@ Teaching
 Service and leadership
 ======
 * President of Scholars of Color Alliance [(SOCA)](https://www.instagram.com/davis_soca/)
-  * University of California, Davis (2021 - present)
+  * University of California, Davis (2021 - 2026)
 * Co-Chair of the Asian Pacific-Islander Student Union
   * Santa Clara University (2019 - 2021)
 * Mathematics Department Representative for the STEM Student Advisory Committee
