@@ -11,3 +11,5 @@ location: "Davis, California"
 Teaching Assistant for ECS32A Introduction to Programming.
 
 Fall 2025.
+
+Introduction to programming and problem solving in Python. Aimed primarily at non-major students.
