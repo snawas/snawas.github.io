@@ -12,3 +12,4 @@ Peer Educator for MATH51 Discrete Mathematics.
 
 Spring 2019.
 
+Predicate logic, methods of proof, sets, functions, sequences, modular arithmetic, cardinality, induction, elementary combinatorial analysis, recursion, and relations. 
