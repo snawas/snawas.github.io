@@ -23,12 +23,10 @@ Work experience
 * 2021 - present: Graduate Student Researcher
   * University of California, Davis
   * Topic: Provable Repair of Deep Neural Networks
-  * Advised by: Dr. Aditya Thakur
 
 * 2020: De Novo Research Fellow
   * Santa Clara University
   * Topic: Sparse Suffix Tree Construction Algorithms
-  * Advised by: Dr. Nicholas Tran
 
 * 2019: Software Engineering Intern
   * NetApp, Inc.
@@ -47,8 +45,14 @@ Teaching
   
 Service and leadership
 ======
+* Mentor for the Young Scholars Program
+    * University of California, Davis (2026)
 * President of Scholars of Color Alliance [(SOCA)](https://www.instagram.com/davis_soca/)
   * University of California, Davis (2021 - 2026)
+* Tutorial Presenter at Programming Languages Design and Implementation (PLDI) conference
+  * University of California, Davis (2024)
+* Mentor for the Talaria Summer Research Institute
+  * University of California, Davis (2022)
 * Co-Chair of the Asian Pacific-Islander Student Union
   * Santa Clara University (2019 - 2021)
 * Mathematics Department Representative for the STEM Student Advisory Committee
